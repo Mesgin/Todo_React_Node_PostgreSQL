@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(248, 254, 255);
+}
+.container {
+  background-color: rgb(82, 180, 151);
+  padding:10px;
+}
+h1 {
+  font-family: 'Indie Flower', cursive;
+  padding: 5px;
+  font-weight:300;
+  font-size: 5rem;
+  color: rgba(255, 255, 0, 0.904);
+}
+form {
+  margin-bottom: 10px;
+}
+input {
+  margin-right: 10px;
+  border-radius: 5px;
+  border: solid white;
+}
+.list-group-item {
+  margin-bottom: 2px;
+  background-color: rgb(202, 21, 57);
+  border-radius: 5px;
+  padding: 6px;
+}
+.list-group {
+  width: 500px;
+  margin:auto;
+  font-size: 1.2rem;
+}
+.done-style {
+  text-decoration: line-through;
+  color: rgb(5, 180, 5);
+}
+.undone-style {
+  color: rgb(255, 251, 0);
+}
+.btn-warning {
+  color: rgba(8, 8, 8, 0.712);
+}
+.btn-success {
+  margin-top: 10px;
+}
