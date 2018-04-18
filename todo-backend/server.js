@@ -5,7 +5,7 @@ const knex = require('knex')({
     client: 'pg',
     connection: {
         database: 'todo',
-        user: 'brainstation1110',
+        user: 'mo',
         password: ''
     }
 })
